@@ -3,7 +3,7 @@ vite+vue3+daisyUI+animate.css实现基于openAI的text-davinci-003构建属于�
 
 1.npm i
 
-2.src/views/HomeView.vue line11  enter your apikeys
+2.src/views/HomeView.vue line11  enter your apikeys. 在HomeView.vue内的第十一行输入你在openai申请的apiKeys
 
 3.npm run dev
 
